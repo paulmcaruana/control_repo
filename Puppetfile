@@ -1,4 +1,4 @@
-mod 'puppet/ngnix', '1.0.0'
+mod 'puppet/ngnix'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/concat'
 mod 'puppetlabs/translate'
